@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 Software Developer.<br>🎓 Information Technology @UFRN.<br>🔧 Front-End, Python, Java, C, C++.<br>💼 3 years of experience in IT  - Grupo Radar.<br>
 
 
